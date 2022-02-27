@@ -1,6 +1,6 @@
-## Computer Network
+# Computer Network
 
-### Content
+## Content
 
 - Chap2: The physical layer
 - Chap3: The data link layer
@@ -9,7 +9,7 @@
 - Chap6: The transport layer
 - Chap7: The application layer
 
-### 废话几句
+## 废话几句
 
 我感觉下面这张图可以涵盖计算机网络80%的内容。
 
